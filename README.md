@@ -1,10 +1,10 @@
 # HW_Week1_Day2_VariablesAndConditionals 😃
 ---
-The Home Work has three components to be delievered before 9AM:
+The Home Work has three components to be delievered before 9AM: ⚠️
 - Conditionals.
 - Variables.
 
-> Note: You must save all your solution as `solution.kt` to be submitted before 9AM.
+> Note: You must save all your solution as `solution.kt` to be submitted before 9AM. ⚠️
 # Instructions 📋
 
 ## Part I - Conditionals.
@@ -12,12 +12,12 @@ The Home Work has three components to be delievered before 9AM:
 Take three numbers from the user and print the greatest number.
 
 ###### Test Data:
-Input the 1st number: 25
-Input the 2nd number: 78
-Input the 3rd number: 87
+> Input the 1st number: 25
+> Input the 2nd number: 78
+> Input the 3rd number: 87
 
 ###### Expected Output :
-> The greatest: 87
+> `The greatest: 87`
 
 ## Part II - Variables.
 ---
@@ -26,7 +26,7 @@ Input the 3rd number: 87
 74 + 36
 
 ###### Expected Output :
-> 110
+> `110`
 
 # Learning Resources  📚
 * [Conditionals in Kotlin](https://kotlinlang.org/docs/control-flow.html)
