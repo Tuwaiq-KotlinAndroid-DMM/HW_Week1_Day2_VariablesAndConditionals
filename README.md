@@ -12,9 +12,9 @@ The Home Work has three components to be delievered before 9AM: ⚠️
 Take three numbers from the user and print the greatest number.
 
 ###### Test Data:
-> Input the 1st number: 25
-> Input the 2nd number: 78
-> Input the 3rd number: 87
+Input the 1st number: 25 <br/>
+Input the 2nd number: 78 <br/>
+Input the 3rd number: 87 <br/>
 
 ###### Expected Output :
 > `The greatest: 87`
