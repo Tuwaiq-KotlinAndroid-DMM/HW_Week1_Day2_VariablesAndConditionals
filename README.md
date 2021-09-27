@@ -21,7 +21,7 @@ Input the 3rd number: 87 <br/>
 
 ## Part II - Variables.
 ---
-###  Write a Java program to print the sum of two numbers.
+###  Write a Kotlin program to print the sum of two numbers.
 ###### Test Data:
 74 + 36
 
