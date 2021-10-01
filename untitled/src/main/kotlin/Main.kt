@@ -5,9 +5,11 @@ fun main(args: Array<String>) {
     val n2 = readLine()!!.toInt()
 
     val n3 = readLine()!!.toInt()
-
+    
+    ptintln("the greatest")
+    
     if (n3==n3)
-        println("the greatest")
+        println("n3")
 
     else if (n3>=n1)
         println("fals")
